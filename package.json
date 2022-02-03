@@ -34,17 +34,17 @@
     "queue-async": "~1.0.7",
     "agentkeepalive": "~2.0.2",
     "request": "~2.78.0",
-    "@kartotherian/makizushi": "^3.0.1",
+    "@kartotherian/makizushi": "github:VadimKovalenkoSNF/makizushi#node12",
     "minimist": "~1.2.0",
     "sigmund": "~1.0.0",
     "xtend": "~4.0.0",
-    "@kartotherian/blend": "^2.0.1"
+    "@kartotherian/blend": "github:VadimKovalenkoSNF/node-blend#node12"
   },
   "devDependencies": {
     "coveralls": "~2.11.1",
     "glob": "~4.0.5",
     "istanbul": "~0.3.0",
-    "@kartotherian/mapnik": "3.7.3",
+    "mapnik": "~4.5.9",
     "nock": "<=9.2.3",
     "tape": "~2.14.0"
   }
