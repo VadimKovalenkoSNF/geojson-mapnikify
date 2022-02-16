@@ -34,11 +34,11 @@
     "queue-async": "~1.0.7",
     "agentkeepalive": "~2.0.2",
     "request": "~2.78.0",
-    "@kartotherian/makizushi": "github:VadimKovalenkoSNF/makizushi#node12",
+    "@kartotherian/makizushi": "^3.0.1",
     "minimist": "~1.2.0",
     "sigmund": "~1.0.0",
     "xtend": "~4.0.0",
-    "@kartotherian/blend": "github:VadimKovalenkoSNF/node-blend#node12"
+    "@kartotherian/blend": "^2.0.1"
   },
   "devDependencies": {
     "coveralls": "~2.11.1",
